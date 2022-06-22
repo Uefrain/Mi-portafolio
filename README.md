@@ -4,5 +4,5 @@
 
 <center> <h1> </h1> </center> 
 
-<center><img src="https://user-images.githubusercontent.com/19308295/115939517-f1c6fe80-a463-11eb-989c-812ab4942586.png" width="380" height="4200"></center>
+<center><img src="https://www.unsa.edu.pe/oucalidad/wp-content/themes/observatorio/img/unsa-logo.png" width="380" height="420"></center>
 <center> <h1>Nombre : Chilo Cutire Efraín</h1> </center>
